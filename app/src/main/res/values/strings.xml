@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Lenovo Legion</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">InCorrect!</string>
+    <string name="first_score_text">Correct!</string>
+    <string name="correct_toast_message">Correct!</string>
+    <string name="incorrect_toast_message">InCorrect!</string>
+    <string name="q1"> Vishnu is a good Boy</string>
+    <string name="q2">A honey bee can fly at 15mph.</string>
+    <string name="q3">A jellyfish is approximately 95% water.!</string>
+    <string name="q4">Elephants are the ony animals that can\'t jump</string>
+    <string name="q5">Cats can hear Ultrasounds</string>
+    <string name="q6">A human brain weighs about three pounds.</string>
+    <string name="q7">The tongue is the fastest healing part of the body.</string>
+    <string name="q8">Americans,on average eat 18 acres of \"pizza\" a day.</string>
+    <string name="q9">A kangaroo can jump up to 30 feet.</string>
+    <string name="q10">The tallest man was 8 feet 11 inches.</string>
+
+
+
+
+</resources>
